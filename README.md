@@ -55,7 +55,7 @@ How many characters would you like to see in a line??? 16
 02260 00 00 00 00                                      |....            |
 ```
 
-If faili to open
+If fail to open
 
 ```Shell
 $ ./HexViewer
