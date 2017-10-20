@@ -1,6 +1,6 @@
 # Hex Viewer
 
-##Introduction
+## Introduction
 
 It is a simple hex viewer. You can use it by typing the filename after execution.
 
@@ -20,7 +20,7 @@ $ make
 
 
 
-##Usage
+## Usage
 
 If success to open
 
